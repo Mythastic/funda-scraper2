@@ -1,6 +1,6 @@
 header:
   user-agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36"
-base_url: https://www.funda.nl/en
+base_url: https://www.funda.nl
 keep_cols:
   sold_data:
     - date_sold
