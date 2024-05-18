@@ -1,7 +1,7 @@
 import pandas as pd
 import pytest
 
-from funda_scraper2.preprocess import preprocess_data
+from funda_scraper.preprocess import preprocess_data
 
 
 @pytest.fixture
