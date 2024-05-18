@@ -9,6 +9,7 @@ from setuptools import find_packages, setup
 NAME = "funda-scraper2"
 URL = "https://github.com/whchien/Mythastic/funda-scraper2"
 DESCRIPTION = "FundaScaper provides you the easiest way to perform web scraping from Funda, the Dutch housing website."
+Author = "x"
 REQUIRES_PYTHON = ">=3.7.0"
 
 about = {}
