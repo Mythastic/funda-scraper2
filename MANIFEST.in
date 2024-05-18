@@ -1,6 +1,6 @@
 include *.txt
 include *.md
-recursive-include ./funda_scraper/*
+recursive-include ./funda_scraper2/*
 
 include funda_scraper/VERSION
 include funda_scraper/config/config.yaml
