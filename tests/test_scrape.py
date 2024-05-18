@@ -1,5 +1,5 @@
-from funda_scraper2.preprocess import preprocess_data
-from funda_scraper2.scrape import FundaScraper
+from funda_scraper.preprocess import preprocess_data
+from funda_scraper.scrape import FundaScraper
 
 
 class TestFundaScraper(object):
