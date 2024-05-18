@@ -7,10 +7,8 @@ from setuptools import find_packages, setup
 
 # Package meta-data.
 NAME = "funda-scraper"
-URL = "https://github.com/whchien/funda-scraper"
+URL = "https://github.com/whchien/Mythastic/funda-scraper2"
 DESCRIPTION = "FundaScaper provides you the easiest way to perform web scraping from Funda, the Dutch housing website."
-EMAIL = "locriginal@gmail.com"
-AUTHOR = "Will Chien"
 REQUIRES_PYTHON = ">=3.7.0"
 
 about = {}
